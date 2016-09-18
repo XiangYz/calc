@@ -1,0 +1,20 @@
+
+#define FUN 100
+#define NUMBER 101
+
+#define FULL_STACK_CALC 1000
+#define EMPTY_STACK_CALC 1001
+#define FULL_STACK_TRANS 1002
+#define EMPTY_STACK_TRANS 1003
+#define ILLEGAL_OP	1004
+#define UNKNOWN_COMMAND 1005
+#define BAD_EXPRESSION 1006
+#define ZERO_DIVIDER 1007
+#define ERROR_LOG 1008
+#define ERROR_SQRT 1009
+#define EXIT 1010
+
+#define TRUE 1
+#define FALSE 0
+#define ERROR -1
+
